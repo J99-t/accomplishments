@@ -16,3 +16,8 @@ Feb 3, 2025 - Feb 9, 2025
 - Watch: 7 Levels Of Engineers 
 - Complete Waterloo Python Tutorial
 
+Mar 16, 2025 - Mar 23, 2025
+- Complete PY100 Exercises
+- Complete Introduction to Programming Book
+- Keep up with new scheduling procedure
+- Watch How to Learn to Code 
