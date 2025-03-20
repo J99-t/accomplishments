@@ -20,4 +20,4 @@ Mar 16, 2025 - Mar 23, 2025
 - Complete PY100 Exercises
 - Complete Introduction to Programming Book
 - Keep up with new scheduling procedure
-- Watch How to Learn to Code 
+- Watch How to Learn to Code
